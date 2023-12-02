@@ -1,0 +1,7 @@
+import os
+if os.path.exists("Myfolder"):
+    print("folder found")
+else:
+    print("not found")
+    
+
